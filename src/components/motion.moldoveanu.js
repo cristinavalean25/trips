@@ -13,8 +13,8 @@ function AnimationMoldoveanu() {
                 initial={{ opacity: 0, scale: 0.5 }}
                 whileHover={{ scale: 1.1 }}
             >
-             <h1>Varful Moldoveanu</h1>
-             <h3>povestea varfului care te cucereste</h3>
+             <h1 style={{color: 'rgb(71, 1, 71)'}}>Varful Moldoveanu</h1>
+             <h3 style={{color: 'rgb(71, 1, 71)'}}>povestea varfului care te cucereste</h3>
             </motion.h1>
         </div>
     );
