@@ -138,6 +138,19 @@ export const detalii = {
     ],
    },
 
+   caltun: {
+    titlu: 'LACUL CALTUN',
+    descriere: ['Munții Făgăraș nu sunt degeaba numiți Alpii Transilvaniei. Aceștia găzduiesc 8 vârfuri ce măsoară peste 2500 m, dar și numeroase cascade și lacuri glaciare. Aici, unde cerul pare mai aproape ca niciodată, se găsește un lac glaciar de o frumusețe răpitoare: Lacul Călțun.',
+    'Traseul pe care l-am ales pentru ziua de 30 august 2014 avea ca punct de plecare Lacul Bâlea, care la ora 10 fără ceva era încă lipsit de forfota caracteristică. Cerul senin, răcoarea plăcută și prognoza meteo favorabilă, mă făceau să îmi doresc să pornim cât mai repede la drum. Până ne-am lămurit de unde începe traseul, până ne-am schimbat, ceasul arăta deja ora 10. Mă așteptam la o zi lungă, speram doar să nu ajungem înapoi pe întuneric. Poteca începea de lângă parcarea de pe partea stângă, cum ieși din tunel, venind dinspre Curtea de Argeș.',
+    'Am început urcușul pe Curmătura Bâlii, marcaj cruce roșie, apoi am urmat marcajul bandă albastră spre Șaua Paltinului, unde în sfârșit am facut o pauză de la urcat. Însă faptul că începusem să coborâm destul de serios, mă făcea să mă gândesc cu groază la diferența de nivel pe care trebuia să o recuperăm la un moment dat.',
+    ],
+    descriere2: [   
+        'În curând am întâlnit prima porțiune de cabluri, care nu ne-a pus mari probleme. Pauzele erau din ce în ce mai dese, nu fiindcă obosisem, ci pentru ca nu mă mai săturam să imortalizez peisajul de vis ce ni se arăta. Mă uitam înspre Vârful Lăițel care se zărea în fața noastră și aveam impresia că traseul avea să fie destul de domol. Numai că a urmat și a doua porțiune de cabluri, care leagă practic Vârful Lăița de Vârful Lăițel. Aceasta a fost destul dificilă și abruptă, recomand o atenție sporită.',
+        'De aici până la Vârful Lăițel nu mai era mult, așa că în scurt timp am ajuns la altitudinea de 2390 m. Dar răsplata cea mai mare a fost imaginea Căldării Călțun, unde strălucea ca un diamant în lumina soarelui Lacul Călțun. Am zăbovit aici minute bune, anticipând parcă ce avea să urmeze. Cea mai dificilă porțiune mi s-a parut această bucată de coborâre de pe Lăițel.',
+        'Diferența de nivel nu era mare, în jur de vreo 200 m, însă erau numai roci, care păreau destul de instabile, trebuia să fim foarte atenți la fiecare pas. Recunosc: am coborât mai mult târâș și mă gândeam în continuu dacă noi pe aici va trebui să ne întoarcem??? Cerul deja se acoperea de nori, iar pe măsură ce ne apropiam de Căldarea Călțun curenții de aer erau din ce în ce mai puternici.',
+    ]
+   },
+
    footer: {
     descriere: [
         'Pentru mai multe detalii accesati linkurile de mai jos :) Si nu uita sa dai subscribe  ⬆ ',

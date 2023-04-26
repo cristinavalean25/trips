@@ -8,6 +8,7 @@ import PageOmu from "./pages/PageOmu";
 import PageLespezi from "./pages/PageLespezi";
 import PageApuseni from "./pages/PageApuseni";
 import PageBuilaVanturarita from "./pages/PageBuilaVanturarita";
+import LaculCaltun from "./pages/LaculCaltun";
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
       <Route path="/PageLespezi" element={<PageLespezi />} />
       <Route path="/PageBuilaVanturarita" element={<PageBuilaVanturarita />} />
       <Route path="PageApuseni" element={<PageApuseni />}/>
+      <Route path="LaculCaltun" element={<LaculCaltun/>} />
     </Routes>
 
   );

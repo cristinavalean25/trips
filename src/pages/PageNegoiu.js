@@ -31,7 +31,7 @@ export default function PageNegoiu(){
                 <div className="negoiu-right col-md-4  mt-2">
                         <form>
                             <h3>{negoiu.titlu2}</h3>
-                                <li><Link>Lacul Caltun</Link></li> 
+                                <li><Link to="/LaculCaltun">Lacul Caltun</Link></li> 
                                 <li><Link>Lacul Capra</Link></li> 
                                 <li><Link>Varful Iezarul caprei 2417m</Link></li> 
                                 <li><Link>Varful Iezarul caprei</Link></li> 
