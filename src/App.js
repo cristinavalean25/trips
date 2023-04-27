@@ -11,7 +11,6 @@ import PageBuilaVanturarita from "./pages/PageBuilaVanturarita";
 import LaculCaltun from "./pages/LaculCaltun";
 import LaculCapra from "./pages/LaculCapra";
 import LaculGalcescu from "./pages/LaculGalcescu";
-import MuntiiParang from "./pages/MuntiiParang";
 import VanatoareaLuiButeanu from "./pages/VanatoareaLuiButeanu";
 
 function App() {
@@ -29,7 +28,6 @@ function App() {
       <Route path="LaculCaltun" element={<LaculCaltun/>} />
       <Route path="LaculCapra" element={<LaculCapra />} />
       <Route path="LaculGalcescu" element={<LaculGalcescu />} />
-      <Route path="MuntiiParang" element={<MuntiiParang />} />
       <Route path="VanatoareaLuiButeanu" element={<VanatoareaLuiButeanu />} />
     </Routes>
 
