@@ -10,6 +10,8 @@ import Img4 from "../Images/LaculCaltun9.jpg";
 import Img5 from "../Images/LaculCaltun5.jpg";
 import Img6 from "../Images/LaculCaltun.jpg";
 import Img7 from "../Images/Lacul-Călțun-20.jpg";
+import Img8 from "../Images/Lacul-Călțun-4.jpg";
+import Img9 from "../Images/LaculCaltun10.jpeg";
 import Footer from "../components/Footer";
 
 
@@ -19,8 +21,9 @@ class LaculCaltun extends Component {
     state = {
         index: 0,
         picList: [Img1, Img2, Img3, Img4, Img5, Img6],
-        detalii: [detalii.caltun.descriere],
-        detalii2: [detalii.caltun.descriere2]
+        details: [detalii.caltun.descriere],
+        details2: [detalii.caltun.descriere2],
+        details3: [detalii.caltun.descriere3]
     }
 
     onClickNext = () => {
@@ -54,15 +57,19 @@ class LaculCaltun extends Component {
                 <NavbarLinks />
                 <Varfuri />
                <div className="row gallery-img">
-                    <img src={this.state.picList[this.state.index]} className="img-thumbnail gallery-caltun-img" alt="img"></img>
+                    <img src={this.state.picList[this.state.index]} className="img-thumbnail gallery-caltun-img" alt="img" style={{border: 'none'}}></img>
                         <div className="btn-caltun">
                             <button onClick={this.onClickPrevious} className="btn-caltun-btn">Previous</button>
                             <button onClick={this.onClickNext} className="btn-caltun-btn">Next</button>
                         </div>  
-                    <p className="text-body">{this.state.detalii} </p> 
+                    <p className="text-body">{this.state.details} </p> 
                     <h4>Către 2390 m…</h4>
-                    <img src={Img7} alt="img" className="img-thumbnail" style={{width: '80%', height: 'auto'}}></img>
-                    <p className="text-body">{this.state.detalii2}</p>
+                    <img src={Img7} alt="img" className="img-thumbnail" style={{border: 'none'}}></img>
+                    <p className="text-body">{this.state.details2}</p>
+                    <img src={Img8} className="img-thumbnail" alt="img" style={{border: 'none'}}></img>
+                    <h4>Drumul de întoarcere...</h4>
+                    <p className="text-body">{this.state.details3}</p>
+                    <img src={Img9} className="img-thumbnail" alt="img" style={{border: 'none'}}></img>
                </div>
                 <Footer />
             </div>

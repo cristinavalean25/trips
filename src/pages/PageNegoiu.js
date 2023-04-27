@@ -32,11 +32,11 @@ export default function PageNegoiu(){
                         <form>
                             <h3>{negoiu.titlu2}</h3>
                                 <li><Link to="/LaculCaltun">Lacul Caltun</Link></li> 
-                                <li><Link>Lacul Capra</Link></li> 
+                                <li><Link to="/LaculCapra">Lacul Capra</Link></li> 
                                 <li><Link>Varful Iezarul caprei 2417m</Link></li> 
-                                <li><Link>Varful Iezarul caprei</Link></li> 
-                                <li><Link>Saua Capre</Link></li> 
-                                <li><Link>Vanatoarea lui Buteanu</Link></li> 
+                                <li><Link to="MuntiiParang">Muntii Parang</Link></li> 
+                                <li><Link to ="/LaculGalcescu">Lacul Galcescu</Link></li> 
+                                <li><Link to="/VanatoareaLuiButeanu">Vanatoarea lui Buteanu</Link></li> 
                         </form>
                 </div>
             </div>
