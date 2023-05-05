@@ -144,7 +144,7 @@ h1 {
 .negoiu-right form {
   text-align: center;
   width: 420px;
-  height: 250px;
+  height: 300px;
   border: 1px solid #cec2c2;
   border-radius: 10px;
   color: #000;
@@ -558,3 +558,55 @@ form a {
   height: auto;
 }
 
+/* Parangul Mare */
+
+.parang {
+  width: 100vw;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.image {
+  padding: 20px;
+}
+
+
+/* Lacul Galcescu */
+
+.lacul-galcescu {
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* Belioara */
+
+.text-belioara {
+  align-items: center;
+  width: 100%;
+  height: auto;
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.titlu-belioara {
+  text-align: center;
+  color: #1a8e05;
+  font-size: 35px;
+  font-weight: 500;
+}
+
+/* Pietrele doamnei */
+
+.title-2 {
+  text-align: center;
+  align-items: center;
+  padding-top: 15%;
+  font-size: 50px;
+  color: #fff;
+}

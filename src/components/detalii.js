@@ -169,6 +169,54 @@ export const detalii = {
     ]
    },
 
+   parang: {
+    descriere: [
+        'Pe cuprinsul întinderii munților Parâng se găsesc un vârf muntos de peste 2.500 de metri, și anume vârful Parângul Mare, cu 2.519 m și trei vârfuri de peste 2.400 de metri: Gemănarea, cu 2.426 m, Stoinița, cu 2.421 m și Cârja cu 2.405 m și aproximativ 15 vârfuri de peste 2.300 m.  Masivul Parâng este cel mai tipic nod orografic al Carpaților Românești – dominat de vârful Parângul Mare (2519 m) din care se desprind, divergent lanțurile montane: spre est Munții Căpățânii, spre NE Munții Lotrului (Ștefleștilor), Latoriței și Cindrel, iar spre NV Munții Șureanu. ',
+        'Munții Parâng situați în partea sud-vestică, rămân partea cea mai înaltă a grupei. Din culmea principală se desprind o serie de ramificații sudice prelungi și bine împădurite. Astfel, din Vf. Parângu Mare se desprind Vf. Mândra (2360 m) și Moldivișul (1758 m) care se desface apoi în trei culmi cuprinse între Jiu și Gilort. Din apropierea Vf. Mîndra se desface spre SV culmea cuprinsă între Vf. Țapu (2110 m) și Vf. Recii (1468 m). ',
+        'Din punct de vedere geomorfologic, culmea principală a Munților Parâng poate fi împărțită în două sectoare: sectorul vestic mai înalt, marcat predominant de relief glaciar și sectorul estic cu altitudini reduse. ',
+    ]
+   },
+
+   belioara1: {
+    descriere: [
+        'Rezervația Geo- Botanică Scărița – Belioara, Muntele Mare, jud.Alba este una dintre cele mai valoroase și reprezentative rezervații din Munții Apuseni. Aceasta cuprinde platoul calcaros Șesul Craiului, Vârful Scărița (1382m) și abrupturile spectaculoase ale obârșiilor Văii Belioara. Poteca tematică „Natura în culori”, constă în 6 panouri informative care se suprapun pe o distanță de 1,2 km. cu traseul turistic Scărița – Belioara. Informațiile de pe panouri ne ajută să știm exact unde ne aflăm și ce putem observa în zona respectivă. Eu le consider foarte utile.',
+    ],
+    descriere1: [
+        'Drumul este în stare foarte bună, nivelat, se poate ajunge cu orice mașină. Din Poșaga de Sus se merge prin sat pe Valea Belioarei, noi am întrebat sătenii, pe lângă carieră se face un drum la dreapta. Mașinile le puteți lăsa pe marginea drumului unde este un panou cu Punctul Gastronomic local la care vă puteți reîncărca bateriile după drumeție. Atitudinea maximă se află în vârful Scărița 1384 metri. Suprafața actuală a ariei protejate este de 130 hectare. Pe suprafața ariei se regăsesc plante specifice climatelor reci alpine și subalpine (am văzut Strugurii Ursului și Gențiana Cupă) cât și plante specifice climatelor mediteraneene sau de stepă.'
+    ],
+    descriere2: [
+        'Traseul este de tip circuit și se poate porni pe care parte doriți, stânga sau dreapta. Noi am văzut traseul filmat și am hotărât să urcăm pe partea stângă (în film pe aici coborau, ei au început drumeția pe partea dreaptă), pentru că aici există o porțiune stâncoasă abruptă pe care am considerat ca e mai simplu de urcat decât de coborât. Pe această parte avem marcaj dublu punct roșu și cruce roșie. Trebuie să treceți printr-o poartă mare de lemn după care veți urca pe o pantă abruptă cu iarbă. Urmează apoi o scurtă urcare prin pădure care vă scoate la un munte stâncos, alb, abrupt, dar chipeș, pe care trebuie să-l urcați folosindu-vă de mâini ca să vă sprijiniți de blocurile masive de calcar. După această porțiune care vă solicită fizic, urmează urcarea destul de lungă prin pădure, pe lângă un pârâiaș, la umbră și în acordul vesel al păsărilor.'
+    ],
+    descriere3: [
+        'O poiană cu construcții arhaice din lemn vă permite să admirați frumusețea peisajului din jur. O altă traversare prin pădure vă scoate la golul alpin. Platoul calcaros pe care am ajuns este Șesul Craiului situat la peste 1350 metri altitudine și o suprafață de 47,7 ha. Priveliștile sunt din ce în ce mai frumoase. Sufletul bucuros de energia cu care se încarcă la vederea acestor peisaje, mulțumește trupului pentru efortul fizic depus pentru a ajunge acolo. Văi adânci fără apă, pereți verticali cu creste dantelate ascuțite și piscuri calcaroase izolate în forme diferite, turnuri uriașe, abrupturi stâncoase (de 750m înălțime), toate aceste forme te transformă într-un spectator fascinat de grandoarea naturii. Totul este uimitor și încerci să memorezi formele stâncilor asemuindu-le cu diverse animale, să le imortalizezi frumusețea în multe fotografii. Coborârea este la rândul ei la fel de abruptă ca și urcarea, doar că de această dată vom coborî în mare pare prin pădure. Noi am prins noroi și era alunecos, astfel că am coborât destul de încet și cu grijă. După ieșirea din pădurea arsă cu peisaj de film de groază (a fost un incendiu mare în luna aprilie 2020 care a fost stins după două zile, afectând peste 10 hectare de pădure), veți coborî printr-o poiană de unde veți putea admira noi forme stâncoase, abrupturi spectaculoase și veți observa portalul uriaș al peșterii Coșul Boului. Urmează apoi o porțiune destul de lungă cu grohotiș, după care ajungeți la punctul de unde ați plecat.'
+    ]
+   },
+
+   pietreleD: {
+    descriere: [
+        'MUNŢII RARĂU - GIUMALĂU constituie o zonă turistică de mare importanță în cadrul Carpaților Orientali fiind unii dintre cei mai atrăgători, pitorești şi vizitați munți ai Bucovinei. Munții Rarău - Giumalău au o suprafață de circa 375 km2 iar altitudinile maxime se află în muntele Giumalău (Vârful Giumalău 1857m) și în muntele Rarău (Vârful Rarău 1651m). ',
+        'În această zonă se găsesc două centre turistice de mare însemnătate - Câmpulung Moldovenesc și Vatra Dornei , ce constituie puncte de plecare pentru principalele fluxuri de turiști în diferite trasee montane în acești munți. ',
+        'TRASEU - Dacă doriți să aveți parte de o aventură de o jumătate zi în acești munți, vă invit la o plimbare scurtă dar plină de adrenalină în Munții Rarău. Traseul este ușor accesibil din fața Cabanei Rarău și poate fi parcurs de oricine, cu un minim efort și echipament adecvat unui traseu pe stâncă, în special încălțări potrivite! ',
+        'Acest traseu se desfășoară în circuit, în jurul Pietrelor Doamnei și durează aproximativ 2 ore în total, în care am inclus și o pauză de 30 de minute în punctul cel mai înalt. Presupune traversarea în prima parte a unei porțiuni stâncoase dar ușor accesibile, o porțiune de lanțuri, un superb loc de belvedere cu priveliște 360 de grade și spre final o plimbare relaxantă prin pădure. ',
+        'Este marcat în totalitate cu cruce albastră . Marcajul este nou și ușor de urmărit. ',
+        'ACCES - Din Câmpulung Moldovenesc, ieșim prin localitatea Pojorâta și vom urma Transrarăul - o șosea ce traversează masivul către localitatea Chiril, care se prezinta foarte bine, fiind asfaltată în totalitate. Din Pojorâta până la Hotel Rarău sunt 16km de serpentine strânse dar cu priveliști de poveste. ',
+        'Facem prima oprire la un loc special amenajat de belvedere pentru a vedea cel mai înalt punct la care vom ajunge astăzi - Pietrele Doamnei. Undeva în spate se pot vedea și stația meteorologica și stația de televiziune de pe Vârful Rarău - cel mai înalt punct al acestui masiv - 1651m. ',
+        ' Din parcarea cabanei Rarau vom pleca direct pe traseu, poteca conturându-se spre pădure. Găsim și un stâlp cu indicatoare spre mai multe trasee ce pot fi parcurse din acest loc, cât și câteva panouri informative despre întreaga zonă.  Pentru astăzi am ales Traseul tematic 1 - Povestea Muntelui care este marcat cu cruce albastră  și face un tur în zona de poveste - Pietrele Doamnei. '
+    ],
+    descriere1: [
+       'Pietrele Doamnei - cel mai cunoscut obiectiv turistic din munții Rarău oferă un relief ruiniform alcătuit dintr-un ansamblu de turnuri din calcare mezozoice încrustate cu corali și amoniți, cu înălțimi de la sub 10 m la peste 70 m, înconjurate de o masă de grohotișuri ce au dimensiuni variabile. Ele sunt rezultate prin fragmentarea (îngheț - dezgheț) unui vârf calcaros. ',
+       'Cu o formă spectaculoasă, învăluite în mister, apariția Pietrelor Doamnei este explicată de localnici prin numeroase legende. Cea mai cunoscută dintre ele are legătură cu doamna Elena, soția voievodului Petru Rareș, la fel cum și denumirea Munților Rarău ar fi fost primită de la domnitorul Moldovei, Petru Rareș. ',
+       'Se spune că în vremurile tulburi ale istoriei, în 1541, în timpul celei de-a doua domnii a lui Petru Rareș, acesta a găsit în munții Rarău un loc pentru a-și pune la adăpost familia și o parte din avere. Urmăriți de hoardele de tătari, doamna Elena și fiul Ștefăniță s-au refugiat într-o peșteră unde au început să se roage, iar la un moment dat au auzit un zgomot puternic. Legenda spune că stânci mari s-au desprins și au căzut peste locul unde se află averea domnitorului, îngropându-i pe atacatori. Doamna Elena ar fi afirmat ”Aceasta este plata pentru salvarea noastră” și, de atunci, stâncile au primit denumirea de „Pietrele Doamnei”, iar comoara stă și acum ascunsă de stâncile uriașe. ',
+       'Revenind la traseu, pornim din fața cabanei ușor la deal prin pădure pentru aproximativ 10 minute urmărind marcajul pe stânci sau copaci. Pădurea se deschide curând iar peisajul se schimbă în totalitate, pădurea verde fiind înlocuită de stâncării. ',
+       'Continuăm traseul prin partea dreaptă, unde se vede și marcajul, în urcare ușoară printre stânci și grohotiș. Partea spectaculoasă a traseului abia a început! Nu vă lăsați descurajați la primul urcuș pentru că veți găsi cu siguranță destule puncte de sprijin în traversarea porțiunilor stâncoase, care pot părea abrupte sau dificile la prima vedere. ',
+       'Lăsând pădurea în spatele nostru, panorame largi apar de după stânci. Facem câte o scurtă oprire din loc în loc pentru a ne bucura de peisaj. ',
+       'Ajungem rapid în cel mai înalt punct al acestui traseu iar efortul ne este răsplătit de panoramele superbe în toate direcțiile. Ne hotărâm să facem o pauză mai lungă, nu pentru că am fi obosit dar priveliștea merită din plin! ',
+       'Spre nord vedem Depresiunea Câmpulung Moldovenesc și Obcinele Bucovinei, spre est Obcina Voronețului, spre sud Munții Bistriței și Depresiunea Țara Dornelor străjuită de masivul vulcanic al Călimanului, iar spre vest Obcina Suhardului, Munții Bârgăului şi crestele alpine ale Munților Rodnei. ',
+       'Coborâm prima porțiune cu lanțuri pe unde am venit până la indicator, iar apoi vom urma spre stânga poteca marcată cu cruce albastra spre Cabana Rarău pentru aproximativ 30 de minute prin pădure. '
+       
+    ]
+   },
+
    footer: {
     descriere: [
         'Pentru mai multe detalii accesati linkurile de mai jos :) Si nu uita sa dai subscribe  ⬆ ',

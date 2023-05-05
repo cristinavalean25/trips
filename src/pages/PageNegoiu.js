@@ -33,10 +33,13 @@ export default function PageNegoiu(){
                             <h3>{negoiu.titlu2}</h3>
                                 <li><Link to="/LaculCaltun">Lacul Caltun</Link></li> 
                                 <li><Link to="/LaculCapra">Lacul Capra</Link></li> 
-                                <li><Link>Varful Iezarul caprei 2417m</Link></li> 
-                                <li><Link to="Parang">Muntii Parang</Link></li> 
-                                <li><Link>Lacul Galcescu</Link></li> 
+                                <li><Link to="/PietreleDoamnei">Pietrele Doamnei</Link></li> 
+                                <li><Link to="/CascadaScorus" > Cascada Scorus</Link></li> 
+                                <li><Link to ="/LaculGalcescu">Lacul Galcescu</Link></li> 
                                 <li><Link to="/VanatoareaLuiButeanu">Vanatoarea lui Buteanu</Link></li> 
+                                <li><Link to="/ParangulMare">Parangul Mare</Link></li>
+                                <li><Link to="/IezerulMare">Iezerul Mare Cindrel</Link></li>
+                                <li><Link to="/Belioara">Circuit Scarita Belioara</Link></li>
                         </form>
                 </div>
             </div>

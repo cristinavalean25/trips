@@ -10,8 +10,13 @@ import PageApuseni from "./pages/PageApuseni";
 import PageBuilaVanturarita from "./pages/PageBuilaVanturarita";
 import LaculCaltun from "./pages/LaculCaltun";
 import LaculCapra from "./pages/LaculCapra";
+import PietreleDoamnei from "./pages/PietreleDoamnei";
 import LaculGalcescu from "./pages/LaculGalcescu";
 import VanatoareaLuiButeanu from "./pages/VanatoareaLuiButeanu";
+import ParangulMare from "./pages/ParangulMare";
+import IezerulMare from "./pages/IezerulMare";
+import Belioara from "./pages/Belioara";
+
 
 function App() {
   return (
@@ -27,8 +32,12 @@ function App() {
       <Route path="PageApuseni" element={<PageApuseni />}/>
       <Route path="LaculCaltun" element={<LaculCaltun/>} />
       <Route path="LaculCapra" element={<LaculCapra />} />
+      <Route path="PietreleDoamnei" element={<PietreleDoamnei />} />
       <Route path="LaculGalcescu" element={<LaculGalcescu />} />
       <Route path="VanatoareaLuiButeanu" element={<VanatoareaLuiButeanu />} />
+      <Route path="ParangulMare" element={<ParangulMare />} />
+      <Route path="IezerulMare" element={<IezerulMare/>} />   
+      <Route path="Belioara" element={<Belioara />} />
     </Routes>
 
   );
