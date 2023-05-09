@@ -25,7 +25,7 @@ export default function PageOmu(){
             {omu.descriere2.map((val, index) =>(
                 <p key={index} className="text-body">{val}</p>
             ))}
-            <img className="img-thumbnail"  src={Img16} alt="bifurcatie"></img>
+            <img className="img-thumbnail"  src={Img16} style={{border: 'none'}} alt="bifurcatie"></img>
             {omu.descriere3.map((val, index) =>(
                 <p className="text-body" key={index}>{val}</p>
             ))}
@@ -33,7 +33,7 @@ export default function PageOmu(){
             {omu.descriere4.map((val, index) =>(
                 <p className="text-body" key={index}>{val}</p>
             ))}
-            <img src={Img18} className="img-thumbnail" alt="babele"></img>
+            <img src={Img18} className="img-thumbnail" style={{border: 'none'}} alt="babele"></img>
         </div>
         <Footer />
         </>

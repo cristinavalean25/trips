@@ -15,7 +15,7 @@ export default function PageLespezi(){
         <Varfuri />
         <div className="lespezi-content">
             <h1>{lespezi.titlu}</h1>
-            <img className="img-thumbnail" src={Img5} alt="lespezi"></img>
+            <img className="img-thumbnail" src={Img5} style={{border: 'none'}} alt="lespezi"></img>
             {lespezi.descriere.map((val, index) => (
                 <p className="text-body" key={index}>{val}</p>
             ))}

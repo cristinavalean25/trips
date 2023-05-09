@@ -23,21 +23,21 @@ export default function PageBuilaVanturarita(){
           {buila.descriere.map((val, index) =>(
             <p className="text-body" key={index}>{val}</p>
           ))}
-          <img className="img-thumbnail" src={Img5} alt="buila"></img>
+          <img className="img-thumbnail" src={Img5} style={{border: 'none'}} alt="buila"></img>
           <h3>{buila.titlu}</h3>
           <h6>{buila.titlu2}</h6>
           {buila.descriere2.map((val, index) =>(
             <p className="text-body" key={index}>{val}</p>
           ))}
-          <img className="img-thumbnail" src={Img6} alt="schit"></img>
+          <img className="img-thumbnail" src={Img6} style={{border: 'none'}} alt="schit"></img>
           {buila.descriere3.map((val, index) =>(
             <p className="text-body" key={index}>{val}</p>
           ))}
-          <img className="img-thumbnail" src={Img7} alt="buila"></img>
+          <img className="img-thumbnail" src={Img7} style={{border: 'none'}} alt="buila"></img>
           {buila.descriere4.map((val, index) =>(
             <p className="text-body" key={index}>{val}</p>
           ))}
-          <img className="img-thumbnail" src={Img8} alt="schit"></img>
+          <img className="img-thumbnail" src={Img8} style={{border: 'none'}} alt="schit"></img>
         </div>
         <Footer />
         </>

@@ -1,5 +1,5 @@
 import { useState } from "react";
-import CloseIcon from '@mui/icons-material/Close';
+import CloseIcon from '@mui/icons-material/Close'; 
 import Navbar from "../components/Navbar";
 import Varfuri from "../Varfuri";
 import { detalii } from "../components/detalii";
@@ -21,6 +21,12 @@ import Footer from "../components/Footer";
 
 
 export default function PietreleDoamnei(){
+    //Android Banner: ca-app-pub-8771482701204375~3332441355
+    //ca-app-pub-8771482701204375/7004981100
+
+    // IOS Banner: ca-app-pub-8771482701204375~3332441355
+    // ca-app-pub-8771482701204375/7743347709
+
 
     const { pietreleD } = detalii;
 
@@ -86,7 +92,8 @@ export default function PietreleDoamnei(){
                 </div>
 
                 <div className="col-md-3">
-
+                   
+                    
                 </div>
             </div>
         </div>
